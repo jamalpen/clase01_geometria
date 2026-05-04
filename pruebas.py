@@ -1,6 +1,6 @@
 # prueba.py
 
-from geometria.areas import area_circulo, area_rectangulo, area_triangulo
+from geometria import area_circulo, area_rectangulo, area_triangulo
 
 
 print("Área del círculo:", area_circulo(1))
